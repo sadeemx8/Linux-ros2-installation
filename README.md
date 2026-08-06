@@ -34,13 +34,13 @@ The purpose of this task is to prepare a Linux environment for developing and ru
 ## 📷 Screenshots
 
 ### Ubuntu Installation
-<img width="845" height="157" alt="Screenshot 2026-08-07 022529" src="https://github.com/user-attachments/assets/6af80c75-311f-445b-8f0e-d7c0edae33ea" />
+<img width="433" height="41" alt="Screenshot 2026-08-07 021149" src="https://github.com/user-attachments/assets/c561c7e4-4c1c-4faa-9ed9-9397f29a88ca" />
 
 
 ---
 
 ### Creating the Linux User
-<img width="455" height="37" alt="Screenshot 2026-08-07 021853" src="https://github.com/user-attachments/assets/42164ff4-0f8f-4a82-9bb3-8dcbb9d75ab7" />
+<img width="347" height="41" alt="Screenshot 2026-08-07 021136" src="https://github.com/user-attachments/assets/82b72c22-82f0-46e3-a662-b4e5170659db" />
 
 
 ---
